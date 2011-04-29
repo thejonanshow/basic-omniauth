@@ -1,0 +1,1 @@
+A basic middleware implementation of Omniauth with three providers: Google, Twitter and Facebook.
